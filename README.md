@@ -1,0 +1,2 @@
+# .github
+Wanaku MCP Router
